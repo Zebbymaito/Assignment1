@@ -1,0 +1,17 @@
+p{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    margin: 20px;
+    padding: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+div{
+    width: 500px;
+    height: 500px;
+    background-image: url("../images/computer.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
